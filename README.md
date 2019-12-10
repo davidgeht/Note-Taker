@@ -38,3 +38,7 @@ Once the steps are completed and the npm packages have been installed continue w
 1. node server.js
 2. Head to your browser and in the address bar type: http://localhost:3000/
 
+## Preview:
+
+<img src="sample/notetakersmp.gif">
+
